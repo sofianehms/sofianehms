@@ -7,7 +7,21 @@
 
 Hi, I'm **Sofiane**, a software engineering student at an engineering school in Paris.
 
-I like building software end to end: the interface people use, the API behind it, and the less visible parts that keep it running, such as quotas, caching, security and tests. I'm now steering my projects toward **applied AI**: putting models inside real products, where they have to be reliable, testable and affordable to run.
+I focus on **AI and machine learning**, especially **LLMs**, **retrieval-augmented generation (RAG)** and **computer vision**. What interests me is the engineering around the model: getting good data in, measuring whether the output is right, and shipping it inside software that stays reliable, testable and affordable to run.
+
+<br/>
+
+## 📭 Contact
+
+<p align="center">
+	<a href="https://www.linkedin.com/in/sofianehoummass/">
+		<img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+	</a>
+	<span>&nbsp;</span>
+	<a href="mailto:prosofianehms@gmail.com">
+		<img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email: prosofianehms@gmail.com">
+	</a>
+</p>
 
 <br/>
 
@@ -46,12 +60,6 @@ Each site it finds gets a **freshness score from 0 to 100** built from seven wei
 * **[{emoji} {Project name}](https://github.com/sofianehms/{repo})**: {one sentence: what it does}. {Stack or year, optional.}
 
 ============================================================= -->
-
-## 📫 Contact
-
-**[LinkedIn](https://www.linkedin.com/in/sofianehoummass/)** · **[Email](mailto:prosofianehms@gmail.com)** (prosofianehms@gmail.com)
-
-<br/>
 
 <!-- ============================================================
   PROJECT BLOCK TEMPLATE (copy everything between the two lines)
