@@ -45,15 +45,11 @@ Each site it finds gets a **freshness score from 0 to 100** built from seven wei
 
 ============================================================= -->
 
-<!-- ============================================================
-  CONTACT: uncomment once the links are confirmed.
-
 ## 📫 Contact
 
-**[LinkedIn](https://www.linkedin.com/in/{handle}/)** · **[Email](mailto:{address})**
+**[LinkedIn](https://www.linkedin.com/in/sofianehoummass/)** · **[Email](mailto:prosofianehms@gmail.com)** (prosofianehms@gmail.com)
 
 <br/>
-============================================================= -->
 
 <!-- ============================================================
   PROJECT BLOCK TEMPLATE (copy everything between the two lines)
