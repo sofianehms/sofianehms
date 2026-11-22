@@ -5,13 +5,15 @@
 
 <br/>
 
+# About me
+
 Hi, I'm **Sofiane**, a software engineering student at an engineering school in Paris.
 
 I focus on **AI and machine learning**, especially **LLMs**, **retrieval-augmented generation (RAG)** and **computer vision**. What interests me is the engineering around the model: getting good data in, measuring whether the output is right, and shipping it inside software that stays reliable, testable and affordable to run.
 
 <br/>
 
-## 📭 Contact
+# 📭 Contact
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/sofianehoummass/"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
