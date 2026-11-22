@@ -5,11 +5,11 @@
 
 <br/>
 
-# About me
+# 👦 About me
 
-Hi, I'm **Sofiane**, a software engineering student at an engineering school in Paris.
+Hi! I'm **Sofiane**, a software engineering student in Paris. I focus on **AI and machine learning**, especially **LLMs**, **retrieval-augmented generation (RAG)** and **computer vision**. 
 
-I focus on **AI and machine learning**, especially **LLMs**, **retrieval-augmented generation (RAG)** and **computer vision**. What interests me is the engineering around the model: getting good data in, measuring whether the output is right, and shipping it inside software that stays reliable, testable and affordable to run.
+Currently looking for a summer internship from June 2027
 
 <br/>
 
