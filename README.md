@@ -1,29 +1,29 @@
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-	<img src="assets/banner-light.svg" width="100%" alt="Sofiane Hoummass, software engineering student at CY Tech">
+	<img src="assets/banner-light.svg" width="100%" alt="Sofiane Hoummass, software engineering student in Paris">
 </picture>
 
 <br/>
 
-Hi, I'm **Sofiane**, a software engineering student at **[CY Tech](https://cytech.cyu.fr/)** in France.
+Hi, I'm **Sofiane**, a software engineering student at an engineering school in Paris.
 
 I like building software end to end: the interface people use, the API behind it, and the less visible parts that keep it running, such as quotas, caching, security and tests. I'm now steering my projects toward **applied AI**: putting models inside real products, where they have to be reliable, testable and affordable to run.
 
 <br/>
 
-## 📌 Featured
-
 <!-- ============================================================
-  FEATURED PROJECTS: 1 to 3 projects, best first.
+  FEATURED PROJECTS (hidden for now): remove these comment markers
+  to show the section again. Keep 1 to 3 projects, best first.
   To add a project, copy the "PROJECT BLOCK" template at the bottom
-  of this file and paste it right below this comment.
-  With more than 3 featured projects, move the oldest one to the
-  "More projects" section (its template is also at the bottom).
-============================================================= -->
+  of this file and paste it right below the heading. With more than
+  3 featured projects, move the oldest one to "More projects".
+  Nosite is hidden until the site works again.
+
+## 📌 Featured
 
 ### [🗺️ Nosite](https://www.nosite.fr)
 
-A web app that finds local businesses around an address with no website, or an outdated one, so web designers know who to contact first. It is live, with accounts, a saved prospect list and paid plans (French interface).
+A web app that finds local businesses around an address with no website, or an outdated one, so web designers know who to contact first. It has accounts, a saved prospect list and paid plans (French interface).
 
 Each site it finds gets a **freshness score from 0 to 100** built from seven weighted signals, from the `Last-Modified` header to JSON-LD dates and `<time>` tags. The checker resolves DNS before fetching and refuses private IP ranges, so it cannot be turned against internal networks, and when the Google Places circuit breaker trips, search falls back to OpenStreetMap.
 
@@ -34,6 +34,8 @@ Each site it finds gets a **freshness score from 0 to 100** built from seven wei
 **[Live](https://www.nosite.fr)** · Next.js, Express, TypeScript, PostgreSQL, Redis
 
 <br/>
+
+============================================================= -->
 
 <!-- ============================================================
   MORE PROJECTS (secondary section): keep it commented out until
